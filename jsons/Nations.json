@@ -3,7 +3,7 @@
 		"name": "German Democratic Republic",
 		"leaderName": "Erich Honecker",
 		"adjective": ["german democratic"],
-		"startBias": ["Snow"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Socialism is the only social order in which man can be human.",
