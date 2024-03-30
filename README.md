@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# GDR MOD
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This adds the greatest civilisation of all time, the GDR (this is a joke). I have nothing better to do on my birthday...
