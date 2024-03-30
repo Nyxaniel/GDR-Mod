@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "German Democratic Republic",
+		"leaderName": "Erich Honecker",
+		"adjective": ["german democratic"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Socialism is the only social order in which man can be human.",
+		"startIntroPart2": "Welcome to the GDR, an socialist, ´democratic´ state.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": ["Fight against the capitalist pigs!", "The socialism will always win! And we will show you!"],
+		"attacked": "Do you want to mess with the NVA?",
+		"defeated": "I must admit: Capitalism can be quite powerful",
+		"introduction": "We are the beautiful country of the German Democratic Republic, led by the SED.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Comrade, everything alright?",
+		"neutralLetsHearIt": ["What´s on your mind for class freedom?","Let´s hear the plan!"],
+		"neutralNo": ["No thanks!","Our people don´t like that!","The SED refuses"],
+		"neutralYes": ["The people like that offer.","This is true socialist!."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Hello class enemy!",
+		"hateLetsHearIt": ["What is it?","What´s on comrade?"],
+		"hateNo": ["Disgusting capitalist thinking!","No thank you!","Socialism doesn´t work like that!"],
+		"hateYes": ["Only for the sake of the socialist world republic!","If we get bananas for this...","You will recive a Trabbi delivery with the goods"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Socialism is for world peace anyway.",
+		"tradeRequest": "Our planned economy has this offer for our all best: ",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "Planned Economy",
+		"uniques": ["[+2 Production] from every [Strategic resource]","Double quantity of [Wheat] produced",
+			"Double quantity of [Coal] produced","Double quantity of [Uranium] produced"],
+		"cities": ["Ost-Berlin","Dresden","Leipzig","Potsdam","Erfurt","Weimar","Halle","Magdeburg","Görlitz",
+			"Görlitz","Frankfurt an der Oder","Schwerin","Karl-Marx-Stadt","Zwickau","Eisenach","Cottbus","Merseburg","Pirna","Bautzen",
+			"Hoyerswerda","Freiberg","Stralsund","Greifswald","Jena","Meissen","Riesa","Zossen","Wismar","Stendal",
+			"Gera","Plauen","Nordhausen","Aue","Neubrandenburg","Saalfeld", "Anklam", "Bergen", "Sassnitz"]
 	}
 ]
