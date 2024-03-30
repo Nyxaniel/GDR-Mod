@@ -2,7 +2,7 @@
 	{
 		"name": "Raupenpanzer",
 		"unitType": "Armored",
-		"uniqueTo": "GDR",
+		"uniqueTo": "German Democratic Republic",
 		"replaces": "Tank",
 		"movement": 8,
 		"strength": 75,
